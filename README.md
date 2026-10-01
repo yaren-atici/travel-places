@@ -1,2 +1,19 @@
-# travel-places
-A small Next.js travel guide to places in Turkey, starting from my hometown.
+ Travel Places
+
+A small travel guide to places in Turkey, made as Task 1 for my web development class.
+the guide starts there with Spil Mountain, Sardis and Kula, and then moves on to places like Cappadocia, Pamukkale and Istanbul. Most people only know the famous ones, so I wanted to show my hometown too.
+
+## Pages
+
+- Home
+- Places – list of all places
+- Place details – description, highlights and some trip info (best time to visit, budget, rating)
+- About
+
+The layout works on mobile too.
+
+## Built with
+
+Next.js, React, TypeScript and Tailwind CSS.
+
+Photos are from Pexels 
